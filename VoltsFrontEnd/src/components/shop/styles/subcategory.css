@@ -1,0 +1,12 @@
+.products_container {
+  padding-top: 50px;
+  padding-bottom: 110px;
+  border-bottom: solid #3E52B5 2px;
+  display: flex;
+  flex-wrap: wrap; }
+
+.subcategory_title {
+  padding-left: 20px;
+  padding-top: 25px; }
+
+/*# sourceMappingURL=subcategory.css.map */
